@@ -1,0 +1,20 @@
+MAYAN_ALFA PUBLIC RELEASE LICENSE
+
+Copyright (c) 2026 David Hess.
+
+The public release package is provided for research, educational, citation,
+benchmark review, and non-commercial public evaluation purposes.
+
+Unless a separate written agreement is provided, the public materials may not be:
+- resold,
+- repackaged as a commercial product,
+- used to misrepresent authorship,
+- used to imply mathematical or cryptographic guarantees,
+- used to redistribute protected restricted/private materials.
+
+restricted datasets, controlled-scale benchmark layers, protected-core materials, internal
+toolchains, and private research workflows remain proprietary and are not part
+of the public license.
+
+Attribution required:
+David Hess — MAYAN_ALFA Research.
