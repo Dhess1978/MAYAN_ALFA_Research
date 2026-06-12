@@ -92,6 +92,7 @@ periodicity hidden deep within the distribution.
 ## Graph Guide / Průvodce grafy
 
 ### 13GITHHUB1 - Classic density view vs. MAYAN ALFA density mapping
+![13GITHHUB1](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB1_public_presentation.png)
 
 **EN**
 
@@ -123,6 +124,7 @@ Pozorování:
   segmentů, krok 1.440B, včetně 0
 
 ### 13GITHHUB2 - Recurrence operator and RQA
+![13GITHHUB2](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB2_public_recurrence.png)
 
 **EN**
 
@@ -153,6 +155,7 @@ Pozorování:
   počítá z průměrné hustoty po fázových binách a vloží do fázového prostoru
 
 ### 13GITHHUB3 - Combined bridge view
+![13GITHHUB3](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB3_combined_2x1.png)
 
 **EN**
 
@@ -178,6 +181,7 @@ Pozorování:
 - připravuje čtenáře na FFT interpretaci v `13GITHHUB4`
 
 ### 13GITHHUB4 - FFT resonance analysis
+![13GITHHUB4](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB4_fft_resonance.png)
 
 **EN**
 
@@ -210,6 +214,7 @@ periodické škály
 krátkých šumových fluktuacích
 
 ### 13GITHHUB5 - High-resolution right-side recurrence plot
+![13GITHHUB5](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB5_right_only.png)
 
 **EN**
 
