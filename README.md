@@ -1,7 +1,6 @@
 # GITHUB_PUBLIC
 
 **EN**
-
 This folder is the public GitHub publication workspace for the project
 `High_Contrast_Phase_Binning_Recurrence_Operators`
 (`High-Contrast Phase-Binning Recurrence Operators and Frequency Resonance Analysis for Large-Scale Prime Number Density Distribution up to 119.8 Trillion Units`).
@@ -19,7 +18,6 @@ directly from the source output tree, and the export is protected by
 `SHA256SUMS.txt` plus `PACKAGE_SHA256.txt`.
 
 **CZ**
-
 Tato složka je veřejný pracovní prostor pro GitHub release projektu
 `High_Contrast_Phase_Binning_Recurrence_Operators`
 (`Vysokokontrastní rekurenční operátory s fázovým binováním a frekvenční rezonanční analýza pro velkoobjemovou distribuci hustoty prvočísel do 119,8 bilionu jednotek`).
@@ -186,7 +184,6 @@ skrytou hluboko uvnitř distribuce prvočísel.
 ![13GITHHUB1](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB1_public_presentation.png)
 
 **EN**
-
 This figure is the entry point to the public visual set. The left side shows a
 classic 2D density curve with a smoothed asymptotic trend, while the right side
 shows the same data reorganized into a high-contrast phase-binned matrix.
@@ -200,7 +197,6 @@ Observed notes:
   step 1.440B, including 0
 
 **CZ**
-
 Tento graf je vstupní branou do veřejné vizuální sady. Levá strana ukazuje
 klasickou 2D křivku hustoty s vyhlazeným asymptotickým trendem, zatímco pravá
 strana ukazuje stejná data reorganizovaná do vysokokontrastní matice s fázovým
@@ -218,7 +214,6 @@ Pozorování:
 ![13GITHHUB2](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB2_public_recurrence.png)
 
 **EN**
-
 This figure compares classic recurrence profiling with the MAYAN ALFA recurrence
 operator on the same massive public dataset. The main observation is not a change
 in recurrence rate, but a change in structure.
@@ -232,7 +227,6 @@ Observed notes:
   computed from mean density over phase bins and embedded into phase space
 
 **CZ**
-
 Tento graf porovnává klasické profilování recurrence s MAYAN ALFA operátorem na
 stejném masivním veřejném datasetu. Hlavní pozorování není změna hustoty
 rekurence, ale změna struktury.
@@ -249,7 +243,6 @@ Pozorování:
 ![13GITHHUB3](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB3_combined_2x1.png)
 
 **EN**
-
 This figure combines the first two public views into a single bridge between
 density visualization and recurrence analysis. It is designed to help the reader
 move from the classical trend to the structured MAYAN ALFA observations without
@@ -261,7 +254,6 @@ Observed notes:
 - it prepares the reader for the FFT-based interpretation in `13GITHHUB4`
 
 **CZ**
-
 Tento graf spojuje první dva veřejné pohledy do jednoho mostu mezi vizualizací
 hustoty a analýzou recurrence. Je navržen tak, aby čtenáře provedl od klasického
 trendu ke strukturovaným pozorováním MAYAN ALFA bez narušení veřejné hranice.
@@ -275,7 +267,6 @@ Pozorování:
 ![13GITHHUB4](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB4_fft_resonance.png)
 
 **EN**
-
 This figure extends the public analysis into the frequency domain. The FFT view
 first removes the dominant asymptotic trend, then inspects the remaining
 periodicity and energy distribution.
@@ -290,7 +281,6 @@ Observed notes:
   short noisy fluctuations
 
 **CZ**
-
 Tento graf rozšiřuje veřejnou analýzu do frekvenční domény. FFT pohled nejprve
 odstraní dominantní asymptotický trend a pak zkoumá zbývající periodicitu a
 rozložení energie.
@@ -308,7 +298,6 @@ Pozorování:
 ![13GITHHUB5](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB5_right_only.png)
 
 **EN**
-
 This is the close-up public recurrence view for the MAYAN ALFA profile. It is
 the most detailed plot in the release and is intended to show the internal
 organization of the recurrence field as a high-resolution right-side panel.
@@ -321,7 +310,6 @@ Observed notes:
   finer visual scale
 
 **CZ**
-
 Toto je detailní veřejný recurrence pohled pro profil MAYAN ALFA. Jde o
 nejdetailnější graf v release a má ukázat vnitřní organizaci recurrence pole
 jako vysokorozlišovací pravý panel.
