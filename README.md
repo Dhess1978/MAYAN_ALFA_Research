@@ -1,3 +1,28 @@
+- # GITHUB_PUBLIC
+**EN**
+This folder is the public GitHub publication workspace for the project
+`High_Contrast_Phase_Binning_Recurrence_Operators`
+(`High-Contrast Phase-Binning Recurrence Operators and Frequency Resonance Analysis for Large-Scale Prime Number Density Distribution up to 119.8 Trillion Units`).
+
+It is wired to the local `CODE/GITHUB_PRESENTATION` workflow and is intended
+to hold only public-safe release material:
+- selected source reports
+- public graphs exported from `13GITHHUB1.py` through `13GITHHUB5.py`
+- the canonical `08_GOVERNANCE_CENTER`
+- paper, QA, and release staging folders
+
+**CZ**
+Tato složka je veřejný pracovní prostor pro GitHub release projektu
+`High_Contrast_Phase_Binning_Recurrence_Operators`
+(`Vysokokontrastní rekurenční operátory s fázovým binováním a frekvenční rezonanční analýza pro velkoobjemovou distribuci hustoty prvočísel do 119,8 bilionu jednotek`).
+
+Je napojená na místní workflow `CODE/GITHUB_PRESENTATION` a má obsahovat jen
+public-safe materiál pro release:
+- vybrané zdrojové reporty
+- veřejné grafy vyexportované z `13GITHHUB1.py` až `13GITHHUB5.py`
+- kanonické `08_GOVERNANCE_CENTER`
+- složky pro paper, QA a release staging
+
 **EN**
 ## Description
 
@@ -400,28 +425,4 @@ Bez písemného povolení není dovoleno:
 - prezentování pozorování jako zaručených univerzálních matematických tvrzení,
 - používání MAYAN_ALFA jako nástroje kryptografického zajištění.
 
-- # GITHUB_PUBLIC
-**EN**
-This folder is the public GitHub publication workspace for the project
-`High_Contrast_Phase_Binning_Recurrence_Operators`
-(`High-Contrast Phase-Binning Recurrence Operators and Frequency Resonance Analysis for Large-Scale Prime Number Density Distribution up to 119.8 Trillion Units`).
-
-It is wired to the local `CODE/GITHUB_PRESENTATION` workflow and is intended
-to hold only public-safe release material:
-- selected source reports
-- public graphs exported from `13GITHHUB1.py` through `13GITHHUB5.py`
-- the canonical `08_GOVERNANCE_CENTER`
-- paper, QA, and release staging folders
-
-**CZ**
-Tato složka je veřejný pracovní prostor pro GitHub release projektu
-`High_Contrast_Phase_Binning_Recurrence_Operators`
-(`Vysokokontrastní rekurenční operátory s fázovým binováním a frekvenční rezonanční analýza pro velkoobjemovou distribuci hustoty prvočísel do 119,8 bilionu jednotek`).
-
-Je napojená na místní workflow `CODE/GITHUB_PRESENTATION` a má obsahovat jen
-public-safe materiál pro release:
-- vybrané zdrojové reporty
-- veřejné grafy vyexportované z `13GITHHUB1.py` až `13GITHHUB5.py`
-- kanonické `08_GOVERNANCE_CENTER`
-- složky pro paper, QA a release staging
 
