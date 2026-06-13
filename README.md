@@ -43,12 +43,24 @@ massive mathematical datasets, we evaluate prime density across
 `119.808 Trillion` integers, structured into `83,200` analytical segments
 with a uniform step size of `1.440 Billion` units.
 
+**CZ**
+## Abstrakt
+
+Tento dataset a analytický framework představují metodologie pro mapování a
+analýzu strukturních, topologických a spektrálních vlastností distribuce
+prvočísel ve velkém měřítku. S využitím vysoce výkonného frameworku
+optimalizovaného pro masivní matematické datasety vyhodnocujeme distribuci
+hustoty prvočísel v rozsahu `119,808 bilionu` (`119,808 × 10^12`) celých čísel,
+rozdělených do `83 200` analytických segmentů s jednotnou velikostí kroku
+`1,440 miliardy` jednotek.
+
+![13GITHHUB3](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB3_combined_2x1.png)
+
+**EN**
 While conventional approaches visualize prime density as a monotonically
 decreasing asymptotic curve, they do not expose local fluctuations and
 macro/micro-structural organization. To bridge this gap, the MAYAN_ALFA engine
 applies a dual-layer pipeline:
-
-![13GITHHUB3](./graphs/PRIMESIEVE_SUMMARY_LIMIT_119807999999999_STEP_1440000000_20260611_101214_13GITHHUB3_combined_2x1.png)
 
 1. Top Row: transforms 1D density traces into a 2D high-contrast spatial
    matrix (Phase-Binned Spectrogram), revealing density stratification and
@@ -64,16 +76,6 @@ dataset archive, and the structural metadata required to reproduce the public
 visualization set.
 
 **CZ**
-## Abstrakt
-
-Tento dataset a analytický framework představují metodologie pro mapování a
-analýzu strukturních, topologických a spektrálních vlastností distribuce
-prvočísel ve velkém měřítku. S využitím vysoce výkonného frameworku
-optimalizovaného pro masivní matematické datasety vyhodnocujeme distribuci
-hustoty prvočísel v rozsahu `119,808 bilionu` (`119,808 × 10^12`) celých čísel,
-rozdělených do `83 200` analytických segmentů s jednotnou velikostí kroku
-`1,440 miliardy` jednotek.
-
 Zatímco konvenční přístupy vizualizují hustotu prvočísel jako monotonicky
 klesající asymptotickou křivku, selhávají při odhalování lokálních fluktuací
 a makro/mikrostrukturní organizace. K překonání tohoto omezení aplikuje jádro
