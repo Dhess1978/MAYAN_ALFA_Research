@@ -1,4 +1,6 @@
 - # GITHUB_PUBLIC
+- # `High-Contrast Phase-Binning Recurrence Operators and Frequency Resonance Analysis for Large-Scale Prime Number Density Distribution up to 119.8 Trillion Units`
+
 **EN**
 This folder is the public GitHub publication workspace for the project
 `High_Contrast_Phase_Binning_Recurrence_Operators`
@@ -11,6 +13,7 @@ to hold only public-safe release material:
 - the canonical `08_GOVERNANCE_CENTER`
 - paper, QA, and release staging folders
 
+- # `Vysokokontrastní rekurenční operátory s fázovým binováním a frekvenční rezonanční analýza pro velkoobjemovou distribuci hustoty prvočísel do 119,8 bilionu jednotek`
 **CZ**
 Tato složka je veřejný pracovní prostor pro GitHub release projektu
 `High_Contrast_Phase_Binning_Recurrence_Operators`
